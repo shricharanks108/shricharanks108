@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning as much as I possibly can :)
 - 😄 Pronouns: he/him/his
 
+
 ![Shri's github stats](https://github-readme-stats.vercel.app/api?username=shricharanks108&hide=contribs,issues&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shricharanks108&theme=github_dark&hide_border=true&langs_count=10)
