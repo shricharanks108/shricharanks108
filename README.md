@@ -14,6 +14,8 @@ Github Stats               |  Top Languages
 :-------------------------:|:-------------------------:
 ![Shri's github stats](https://github-readme-stats.vercel.app/api?username=shricharanks108&hide=contribs,issues&show_icons=true&theme=radical&count_private=true)   |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shricharanks108&theme=github_dark&hide_border=true&langs_count=10)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shricharanks108&show_icons=true)
+
 
 ![](https://hit.yhype.me/github/profile?user_id=62522322)
 
